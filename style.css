@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    height: 100vh;
+    margin: auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url('https://free4kwallpapers.com/uploads/originals/2015/11/03/a-beautiful-sunny-day-wallpaper.jpg');
+}
+.container{
+    width: 200px;
+    height: 200px;
+    padding: 5%;
+    border-radius: 25px;
+    margin: auto;
+    
+}
+button{
+    width: 100px;
+    height: 25px;
+    display: flex;
+    border-radius: 5px;
+    margin: 20px;
+    justify-content: center;
+    background-color: #8dbfd5;
+}
+button:hover{
+    background-color: #2d657d;
+}
+input{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 100% ;
+    
+}
+.Temp{
+font-size: 150%;
+}
+.cards{
+    border: black solid;
+    width: 200px;
+    height:200px;
+    margin: 10%;
+    grid-template-columns:;
+}
+
